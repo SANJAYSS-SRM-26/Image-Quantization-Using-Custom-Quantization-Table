@@ -8,7 +8,7 @@ In this project, a grayscale image is loaded, quantized using predefined ranges 
 
 ## Files in the Repository
 
-- **image_quantization.py**: The main script that performs the image quantization and plots histograms.
+- **quantization.py**: The main script that performs the image quantization and plots histograms.
 - **Picture2.jpg**: The input grayscale image to be quantized.
 - **reconstructed_image.jpg**: The output quantized image.
 
